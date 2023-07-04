@@ -1,4 +1,3 @@
-// eslint-disable-next-line consistent-return
 export default function cleanSet(set, startString) {
   let res = '';
   if (!startString || !startString.length) return res;
